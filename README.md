@@ -1,4 +1,4 @@
 # FostiatorRPG
 
-Primera prueba usando como base el programa #BASIC de @FranGallegoBR.
+Primera prueba usando como base el programa #TeamBASIC de @FranGallegoBR.
 
