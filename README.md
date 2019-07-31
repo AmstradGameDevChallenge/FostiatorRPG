@@ -2,4 +2,4 @@
 
 Primera prueba usando como base el programa #TeamBASIC de @FranGallegoBR.
 
-https://raw.githubusercontent.com/AmstradGameDevChallenge/FostiatorRPG/master/captura.png
+![alt text](https://raw.githubusercontent.com/javymetal/FostiatorRPG/master/captura.png)
