@@ -11,3 +11,4 @@ unix2dos $SOURCE
 
 # ADD TO DSK
 $IDSK $TARGET -i $SOURCE -t 0
+cpct_winape $TARGET
